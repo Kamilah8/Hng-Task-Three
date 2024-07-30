@@ -17,9 +17,11 @@ Financial Metrics
 Market Capitalization: This indicates the total market value of the company’s outstanding shares.
 
 
-P/E Ratio (Price-to-Earnings Ratio): measures the current share price relative to the company’s earnings per share. A low Price-to-Earnings ratio compared to the industry average.
-PEG Ratio (Price/Earnings to Growth Ratio):  The Price/Earnings to Growth ratio below 1 can indicate undervaluation.
-P/S Ratio (Price-to-Sales Ratio): A low Price-to-sale ratio (less than 1 can be a good sign of undervaluation).
+**P/E Ratio (Price-to-Earnings Ratio):** measures the current share price relative to the company’s earnings per share. A low Price-to-Earnings ratio compared to the industry average.
+
+**PEG Ratio (Price/Earnings to Growth Ratio):**  The Price/Earnings to Growth ratio below 1 can indicate undervaluation.
+
+**P/S Ratio (Price-to-Sales Ratio):** A low Price-to-sale ratio (less than 1 can be a good sign of undervaluation).
 Key metrics found at the Descriptive and fundamental filter that helps indicate undervalued companies.
 
 
@@ -43,21 +45,24 @@ Gross Profit 2024: $3,916 million
 Gross Profit 2023: $3,916 million
 Gross Profit Growth: 0%
 Sector Peers:
+
 **OVV**
 Gross Profit 2024: $3,396 million
 Gross Profit 2023: $3,448 million
 Gross Profit Growth: -1.51%
+
 **SU**
 Gross Profit 2024: $16,370.69 million
 Gross Profit 2023: $14,479.65 million
 Gross Profit Growth: 13.06%
+
 **CHRD**
 Gross Profit 2024: $1,336.76 million
 Gross Profit 2023: $1,410.69 million
 Gross Profit Growth: -5.24%
 
 
-### Analysis:
+### Analysis
 APA Corporation shows no growth in gross profit, maintaining the same level in both 2023 and 2024.
 OVV experienced a slight decline in gross profit by -1.51%.
 SU demonstrated significant growth in gross profit by 13.06%, indicating a strong performance relative to its peers.
@@ -65,9 +70,10 @@ CHRD had a decline in gross profit by -5.24%, suggesting a negative trend.
 APA's flat gross profit growth is relatively better than the declines seen in OVV and CHRD but falls short compared to SU's robust growth
  
  
-### Insights:
+### Insights
 **Undervaluation:** The lower PE ratio of Company A compared to its peers and the sector average may indicate that the company is undervalued. 
 This could present a potential investment opportunity if Company A has strong growth prospects and sound fundamentals.
+
 **Investor Sentiment:** The lower PE ratio might also reflect cautious investor sentiment regarding Company A’s future earnings potential compared to its peers.
 
 
@@ -77,11 +83,13 @@ its current valuation, as indicated by a lower PE ratio, suggests that the marke
 This discrepancy between financial performance and market valuation could be an opportunity for investors, depending on the company's future growth prospects and market conditions.
  
 ### Recommendations
+
 **For Investors**
 Consideration for Investment: Evaluate the underlying reasons for the lower PE ratio of Company A. If the company has robust growth strategies and sound financial health, 
 it could be a good investment opportunity.
 
 **Further Analysis:** Perform additional due diligence on Company A’s business model, market conditions, and competitive landscape to understand potential risks and opportunities.
+
 **For Company A**
 Enhance Market Perception: Work on strategies to improve market perception and investor confidence to better align the company's market valuation with its financial performance.
 Focus on Growth: Continue to focus on maintaining and improving gross profit margins and growth rates to sustain competitive positioning within the sector.
