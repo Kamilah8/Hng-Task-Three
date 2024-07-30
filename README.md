@@ -29,8 +29,7 @@ Key metrics found at the Descriptive and fundamental filter that helps indicate 
 The companies exhibit a unique financial profile with a mix of low valuation ratios and moderate gross profit growth.Key observations include:
 Undervaluation: The extremely low P/E and PEG ratios suggest that the stock is undervalued relative to its earnings and growth. 
 This could present a potential investment opportunity if the company can maintain or improve its earnings.
-Using the average of PE and locating the lowest PE, determines the Undervalued company. The link below shows the analytic representation
-https://docs.google.com/spreadsheets/d/1Mg6zQwDDuCU0jayIA3kRDizq-vYWxUsjvsj7gwmmyKg/edit?usp=sharing 
+Using the average of PE and locating the lowest PE, determines the Undervalued company.  
 
 
 #### Future Earnings
