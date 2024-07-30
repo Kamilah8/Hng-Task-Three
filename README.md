@@ -1,6 +1,6 @@
-# Hng-Task-Three
-Identifying Undervalued companies using Finviz by examing gross profit (GP) and gross profit growth (GPG) compared to similar companies in the same sector.
+# Company Analysis Report
 # Introduction
+Identifying Undervalued companies using Finviz by examing gross profit (GP) and gross profit growth (GPG) compared to similar companies in the same sector.
 This report aims to analyze selected companies to identify undervalued companies, determine their valuation and potential for growth. 
 The primary focus on key financial metrics such as P/E ratio, PEG ratio, P/S ratio, P/B ratio, Gross Profit (GP) and Gross Profit Growth (GPG), 
 conducting a comparative analysis with sector peers, and creating a projection model for the company's value in four years. 
